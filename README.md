@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chi-gozie
 - 👀 I’m interested in big data
-- 🌱 I’m currently learning data analysis with python on Udacity Nanodegree program 
+- 🌱 I've completed data analysis with python on Udacity Nanodegree program 
 - 💞️ I’m looking to collaborate on data related issues 
 - 📫 How to reach me on LinkedIn 
 
